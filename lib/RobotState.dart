@@ -1,0 +1,1 @@
+enum RobotState{running,idle}
